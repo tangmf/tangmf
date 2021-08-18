@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on fun projects.
 
 Contact me:
-s10185023@connect.np.edu.sg
-https://www.linkedin.com/in/tangmf/
+* s10185023@connect.np.edu.sg
+* https://www.linkedin.com/in/tangmf/
 
 <!---
 tangmf/tangmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
