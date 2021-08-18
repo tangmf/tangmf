@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tangmf
+- 👋 Hi, I’m Tang Ming Feng
 - 👀 I’m interested in games, coding and art.
 - 🌱 I’m currently learning asp.net mvc, UiPath and AWS.
 - 💞️ I’m looking to collaborate on fun projects.
